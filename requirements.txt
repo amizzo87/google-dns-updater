@@ -1,5 +1,6 @@
 flask
-google-cloud-core==1.5.0
+google-cloud-dns
+google-cloud-logging
 google-oauth
 google-auth
 python_dotenv
